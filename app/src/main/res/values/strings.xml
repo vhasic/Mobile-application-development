@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="TypographyDashes">
+    <string name="app_name">Spirala 1</string>
+    <string name="sppinerFilter">Filter by</string>
+    <string name="sppinerSort">Sort by</string>
+    <string name="api_id">2b2683f0-a2a6-4092-907a-177a307c4ead</string>
+</resources>
