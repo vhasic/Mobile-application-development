@@ -1,7 +1,5 @@
-+++++ Vahidin Hasić
+# Description
 
-+++++ 18328
+Developed by Vahidin Hasić for Mobile aplication development course at the Faculty of Electrical Engineering Sarajevo.
 
-+++++ 2019/20
-
-+++++ RMA
+This is personal finances app for Android OS.
